@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "悪い夏",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-17T17:43:08.055858Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悪い夏",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_悪い夏_BaseBallBear.txt"
+    }
+  ]
+}
